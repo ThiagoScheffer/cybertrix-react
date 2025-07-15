@@ -32,7 +32,7 @@ Explore new UI, AI chat, cyberpunk sound design, dynamic backgrounds, power-ups,
 
 ## Preview
 
-![Application Screenshot](\media\cybetrix.jpg)
+![Application Screenshot](media\cybetrix.jpg)
 
 
 ---
