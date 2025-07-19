@@ -131,9 +131,9 @@ Mobile: <-- not fully implemented, as the new functions are not dynamic
 1. **Clone this repo:**
 
    ```bash
-    gh repo clone ThiagoScheffer/neon-block-runners
+    gh repo clone ThiagoScheffer/cybertrix-react
   
-   cd cybertrix
+   cd cybertrix-react
    ```
 
 2. **Install dependencies:**
