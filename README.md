@@ -4,7 +4,7 @@
 This is a full AI prompting project - to experiment using AI and controlling how AI can interact with functions and following instructions. 
 A next-generation **Tetris-inspired game** built with **React, Vite, TypeScript, Tailwind CSS**, and the experimental **shadcn/ui** library.
 This project is for learning, experimentation, and fun!
-Explore new UI, AI chat, cyberpunk sound design, dynamic backgrounds, power-ups, and much more.
+Explore new UI, bot-chat-style, cyberpunk sound design, dynamic backgrounds, power-ups, and much more.
 
 ---
 
